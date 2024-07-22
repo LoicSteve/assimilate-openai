@@ -13,9 +13,11 @@ st.write(
 
 QUESTION = st.text_input("Input Question 👇")
 
+
 @st.cache
 def cached_submit_question():
     return submit_question
+
 
 submit_question_cached = cached_submit_question()
 
