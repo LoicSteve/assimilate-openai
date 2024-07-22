@@ -41,7 +41,10 @@
 				"ms-python.vscode-pylance",
 				"ms-vscode.makefile-tools",
 				"GitHub.copilot",
-				"rust-lang.rust-analyzer"
+				"rust-lang.rust-analyzer",
+				"GitHub.copilot-chat",
+				"ms-vscode-remote.remote-containers",
+				"ms-azuretools.vscode-docker"
 			]
 		}
 	},
