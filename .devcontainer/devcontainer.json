@@ -40,8 +40,7 @@
 				"ms-python.python",
 				"ms-python.vscode-pylance",
 				"ms-vscode.makefile-tools",
-				"GitHub.copilot-labs",
-				"GitHub.copilot-nightly",
+				"GitHub.copilot",
 				"rust-lang.rust-analyzer"
 			]
 		}
