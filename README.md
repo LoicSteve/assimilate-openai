@@ -1,8 +1,6 @@
 [![Python application test with Github Actions using devcontainers](https://github.com/LoicSteve/assimilate-openai/actions/workflows/main.yml/badge.svg)](https://github.com/LoicSteve/assimilate-openai/actions/workflows/main.yml)
 
-# assimilate-openai
-
-Build a code generator using GPT-3.5-Turbo
+# Build a code generator in any language using GPT-3.5-Turbo API
 
 streamlit as the UI
 
